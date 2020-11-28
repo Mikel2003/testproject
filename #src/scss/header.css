@@ -1,0 +1,13 @@
+.header {
+  background: url(../img/Header-bg.jpg) top no-repeat; }
+
+.top-header__content {
+  display: flex; }
+.top-header__column {
+  flex: 0 1 50%; }
+  .top-header__column:nth-child(2) {
+    flex: 0 0 190px;
+    padding-top: 25px;
+    text-align: center; }
+
+/*# sourceMappingURL=header.css.map */

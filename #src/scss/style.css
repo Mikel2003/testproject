@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Play:wght@700&family=Roboto:wght@300;400;500;700&display=swap");
+@font-face {
+  font-family: "UniSans";
+  font-display: swap;
+  src: url("../fonts/UniSans.woff") format("woff"), url("../fonts/UniSans.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal; }
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  color: black; }
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0; }
+
+ul,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none; }
+
+.container {
+  max-width: 1180px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 20px; }
+
+/*# sourceMappingURL=style.css.map */
